@@ -111,4 +111,4 @@ YAML is better but it still clutters the output with quotes, escaped values and/
 ## License
 
 yamelish is licensed under WTFPL.
-Copyright (c) 2022-2023 Xavier G.
+Copyright (c) 2022-2024 Xavier G.
